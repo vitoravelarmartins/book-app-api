@@ -1,6 +1,7 @@
 import AuthorService from '../services/AuthorService'
 
 class AuthorController {
+  
   static async addNew(req, res) {
   }
 
