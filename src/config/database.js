@@ -1,7 +1,8 @@
 module.exports = {
   host: '127.0.0.1',
   username: 'root',
-  password: '',
+  password: 'root',
+  port:'3307',
   database: 'books_api',
   dialect: 'mysql',
   //logging: false,
